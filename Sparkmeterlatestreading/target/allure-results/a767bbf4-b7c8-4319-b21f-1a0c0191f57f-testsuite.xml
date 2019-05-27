@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1551197846595" stop="1551197848366" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1551197846756" stop="1551197848055" status="passed">
+            <name>Execution</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MONO-HYD-LAP-9"/>
+                <label name="thread" value="10692@MONO-HYD-LAP-9.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1551197846756" stop="1551197848055" status="passed">
+            <name>Execution</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MONO-HYD-LAP-9"/>
+                <label name="thread" value="10692@MONO-HYD-LAP-9.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
